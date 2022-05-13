@@ -3,7 +3,7 @@ Hello! World!
 I'm a self taught brazillian programmer!
 Always looking forward to learning more, even when something may seem hard.
 Currently dabling with React/NextJs and learning more about wonderful technologies like TailwindCSS and Chakra UI.
-I love listening (and making) music, learning Japanese and building stuff to help others! 
+I love listening to (and making) music, learning Japanese and building stuff to help others! 
 
 おはよう〜！
 
